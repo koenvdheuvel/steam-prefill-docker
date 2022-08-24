@@ -1,2 +1,2 @@
 #!/bin/sh
-docker compose run --rm steam-prefill "$@"
+docker-compose run --rm steam-prefill "$@"
